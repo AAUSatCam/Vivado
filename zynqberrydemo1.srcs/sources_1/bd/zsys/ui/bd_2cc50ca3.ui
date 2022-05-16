@@ -1,0 +1,43 @@
+{
+   "ActiveEmotionalView":"Default View",
+   "Default View_ScaleFactor":"0.830393",
+   "Default View_TopLeft":"-146,-36",
+   "ExpandedHierarchyInLayout":"",
+   "guistr":"# # String gsaved with Nlview 7.0r6  2020-01-29 bk=1.5227 VDI=41 GEI=36 GUI=JA:10.0 non-TLS
+#  -string -flagsOSRD
+preplace port DMA_RX_ACK -pg 1 -lvl 0 -x 0 -y 290 -defaultsOSRD
+preplace port DMA_RX_REQ -pg 1 -lvl 5 -x 1180 -y 320 -defaultsOSRD
+preplace port DMA_TX_ACK -pg 1 -lvl 0 -x 0 -y 270 -defaultsOSRD
+preplace port DMA_TX_REQ -pg 1 -lvl 5 -x 1180 -y 300 -defaultsOSRD
+preplace port S00_AXI -pg 1 -lvl 0 -x 0 -y 250 -defaultsOSRD
+preplace port Vp_Vn -pg 1 -lvl 0 -x 0 -y 70 -defaultsOSRD
+preplace port port-id_audio_clk -pg 1 -lvl 0 -x 0 -y 310 -defaultsOSRD
+preplace port port-id_axi_aclk -pg 1 -lvl 0 -x 0 -y 90 -defaultsOSRD
+preplace port port-id_pwm_l_out -pg 1 -lvl 5 -x 1180 -y 530 -defaultsOSRD
+preplace port port-id_pwm_r_out -pg 1 -lvl 5 -x 1180 -y 550 -defaultsOSRD
+preplace portBus axi_resetn -pg 1 -lvl 0 -x 0 -y 130 -defaultsOSRD
+preplace inst axi_i2s_adi_0 -pg 1 -lvl 3 -x 760 -y 350 -defaultsOSRD
+preplace inst axis_to_i2s_0 -pg 1 -lvl 2 -x 460 -y 90 -defaultsOSRD
+preplace inst i2s_to_pwm_0 -pg 1 -lvl 4 -x 1050 -y 540 -defaultsOSRD
+preplace inst xadc_wiz_0 -pg 1 -lvl 1 -x 170 -y 100 -defaultsOSRD
+preplace netloc BCLK 1 1 3 320 190 NJ 190 940
+preplace netloc DATA_CLK_I_1 1 0 3 NJ 310 NJ 310 NJ
+preplace netloc LRCLK 1 1 3 330 520 NJ 520 930
+preplace netloc i2s_to_pwm_0_pwm_l_out 1 4 1 NJ 530
+preplace netloc i2s_to_pwm_0_pwm_r_out 1 4 1 NJ 550
+preplace netloc m_axis_resetn_1 1 0 3 20 220 310 330 580
+preplace netloc play_sdata 1 3 1 920 380n
+preplace netloc rec_sdata 1 2 1 600 90n
+preplace netloc s_axis_aclk_1 1 0 4 30 210 300 320 590 510 NJ
+preplace netloc Conn1 1 0 1 NJ 70
+preplace netloc Conn2 1 0 3 NJ 270 NJ 270 NJ
+preplace netloc Conn3 1 3 2 NJ 300 NJ
+preplace netloc Conn4 1 3 2 NJ 320 NJ
+preplace netloc Conn5 1 0 3 NJ 290 NJ 290 NJ
+preplace netloc Conn6 1 0 3 NJ 250 NJ 250 NJ
+preplace netloc xadc_wiz_0_M_AXIS 1 1 1 N 50
+levelinfo -pg 1 0 170 460 760 1050 1180
+pagesize -pg 1 -db -bbox -sgen -150 -10 1330 630
+"
+}
+

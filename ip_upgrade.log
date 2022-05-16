@@ -1,0 +1,1506 @@
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Mon May 16 15:32:25 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_SatCamDemosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of zsys_SatCamDemosaic_0_0 (AAUSAT:AAUSatCam:SatCamDemosaic:1.14) from (Rev. 7) to (Rev. 8)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Mon May 16 14:53:17 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_SatCamDemosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of zsys_SatCamDemosaic_0_0 (AAUSAT:AAUSatCam:SatCamDemosaic:1.14) from (Rev. 5) to (Rev. 7)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu May 12 14:53:24 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_SatCamDemosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of zsys_SatCamDemosaic_0_0 (AAUSAT:AAUSatCam:SatCamDemosaic:1.14) from (Rev. 4) to (Rev. 5)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu May 12 14:32:15 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_SatCamDemosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of zsys_SatCamDemosaic_0_0 (AAUSAT:AAUSatCam:SatCamDemosaic:1.14) from (Rev. 3) to (Rev. 4)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu May 12 13:57:55 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_SatCamDemosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of zsys_SatCamDemosaic_0_0 (AAUSAT:AAUSatCam:SatCamDemosaic:1.14) from (Rev. 2) to (Rev. 3)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu May 12 13:42:13 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_SatCamDemosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of zsys_SatCamDemosaic_0_0 (AAUSAT:AAUSatCam:SatCamDemosaic:1.14) from (Rev. 1) to (Rev. 2)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu May 12 13:13:29 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_SatCamDemosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of zsys_SatCamDemosaic_0_0 from AAUSAT:AAUSatCam:SatCamDemosaic:1.13 (Rev. 6) to AAUSAT:AAUSatCam:SatCamDemosaic:1.14 (Rev. 1)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu May 12 12:08:01 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_SatCamDemosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of zsys_SatCamDemosaic_0_0 (AAUSAT:AAUSatCam:SatCamDemosaic:1.13) from (Rev. 5) to (Rev. 6)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu May 12 10:44:04 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_SatCamDemosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of zsys_SatCamDemosaic_0_0 (AAUSAT:AAUSatCam:SatCamDemosaic:1.13) from (Rev. 4) to (Rev. 5)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu May 12 10:21:37 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_SatCamDemosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of zsys_SatCamDemosaic_0_0 (AAUSAT:AAUSatCam:SatCamDemosaic:1.13) from (Rev. 3) to (Rev. 4)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu May 12 10:06:08 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_SatCamDemosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of zsys_SatCamDemosaic_0_0 (AAUSAT:AAUSatCam:SatCamDemosaic:1.13) from (Rev. 2) to (Rev. 3)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu May 12 09:28:40 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_SatCamDemosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of zsys_SatCamDemosaic_0_0 (AAUSAT:AAUSatCam:SatCamDemosaic:1.13) from (Rev. 1) to (Rev. 2)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Wed May 11 19:13:19 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_SatCamDemosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of zsys_SatCamDemosaic_0_0 from AAUSAT:AAUSatCam:SatCamDemosaic:1.12 (Rev. 3) to AAUSAT:AAUSatCam:SatCamDemosaic:1.13 (Rev. 1)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Wed May 11 19:11:30 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_SatCamDemosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of zsys_SatCamDemosaic_0_0 (AAUSAT:AAUSatCam:SatCamDemosaic:1.12 (Rev. 3)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Wed May 11 18:43:34 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_SatCamDemosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of zsys_SatCamDemosaic_0_0 (AAUSAT:AAUSatCam:SatCamDemosaic:1.12) from (Rev. 2) to (Rev. 3)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Wed May 11 15:32:48 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_SatCamDemosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of zsys_SatCamDemosaic_0_0 (AAUSAT:AAUSatCam:SatCamDemosaic:1.12) from (Rev. 1) to (Rev. 2)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Wed May 11 14:44:20 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_SatCamDemosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of zsys_SatCamDemosaic_0_0 from AAUSAT:AAUSatCam:SatCamDemosaic:1.10 (Rev. 1) to AAUSAT:AAUSatCam:SatCamDemosaic:1.12 (Rev. 1)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Tue May  3 09:33:57 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_SatCamDemosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of zsys_SatCamDemosaic_0_0 from AAUSAT:AAUSatCam:SatCamDemosaic:1.09 (Rev. 1) to AAUSAT:AAUSatCam:SatCamDemosaic:1.10 (Rev. 1)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Tue May  3 09:22:46 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_SatCamDemosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of zsys_SatCamDemosaic_0_0 from AAUSAT:AAUSatCam:SatCamDemosaic:1.08 (Rev. 2) to AAUSAT:AAUSatCam:SatCamDemosaic:1.09 (Rev. 1)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Fri Apr 29 14:02:59 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_SatCamDemosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of zsys_SatCamDemosaic_0_0 (AAUSAT:AAUSatCam:SatCamDemosaic:1.08) from (Rev. 1) to (Rev. 2)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Fri Apr 29 13:53:21 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_SatCamDemosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of zsys_SatCamDemosaic_0_0 (AAUSAT:AAUSatCam:SatCamDemosaic:1.08 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Fri Apr 29 13:51:20 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_SatCamDemosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of zsys_SatCamDemosaic_0_0 from AAUSAT:AAUSatCam:SatCamDemosaic:1.07 (Rev. 2) to AAUSAT:AAUSatCam:SatCamDemosaic:1.08 (Rev. 1)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Fri Apr 29 13:45:41 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_SatCamDemosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of zsys_SatCamDemosaic_0_0 (AAUSAT:AAUSatCam:SatCamDemosaic:1.07) from (Rev. 1) to (Rev. 2)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Fri Apr 29 12:42:09 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_SatCamDemosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of zsys_SatCamDemosaic_0_0 from AAUSAT:AAUSatCam:SatCamDemosaic:1.06 (Rev. 2) to AAUSAT:AAUSatCam:SatCamDemosaic:1.07 (Rev. 1)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Fri Apr 29 11:53:27 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_SatCamDemosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of zsys_SatCamDemosaic_0_0 (AAUSAT:AAUSatCam:SatCamDemosaic:1.06) from (Rev. 1) to (Rev. 2)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Fri Apr 29 09:40:30 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_SatCamDemosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of zsys_SatCamDemosaic_0_0 from AAUSAT:AAUSatCam:SatCamDemosaic:1.05 (Rev. 4) to AAUSAT:AAUSatCam:SatCamDemosaic:1.06 (Rev. 1)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr 28 16:35:42 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_SatCamDemosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of zsys_SatCamDemosaic_0_0 (AAUSAT:AAUSatCam:SatCamDemosaic:1.05) from (Rev. 2) to (Rev. 4)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr 28 15:40:32 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_SatCamDemosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of zsys_SatCamDemosaic_0_0 (AAUSAT:AAUSatCam:SatCamDemosaic:1.05) from (Rev. 1) to (Rev. 2)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr 28 15:00:01 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_SatCamDemosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of zsys_SatCamDemosaic_0_0 from AAUSAT:AAUSatCam:SatCamDemosaic:1.04 (Rev. 8) to AAUSAT:AAUSatCam:SatCamDemosaic:1.05 (Rev. 1)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr 28 14:21:58 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_SatCamDemosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of zsys_SatCamDemosaic_0_0 (AAUSAT:AAUSatCam:SatCamDemosaic:1.04) from (Rev. 7) to (Rev. 8)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr 28 14:05:37 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_SatCamDemosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of zsys_SatCamDemosaic_0_0 (AAUSAT:AAUSatCam:SatCamDemosaic:1.04) from (Rev. 6) to (Rev. 7)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr 28 13:39:54 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_SatCamDemosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of zsys_SatCamDemosaic_0_0 (AAUSAT:AAUSatCam:SatCamDemosaic:1.04) from (Rev. 5) to (Rev. 6)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr 28 13:14:11 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_SatCamDemosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of zsys_SatCamDemosaic_0_0 (AAUSAT:AAUSatCam:SatCamDemosaic:1.04) from (Rev. 4) to (Rev. 5)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr 28 12:50:46 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_SatCamDemosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of zsys_SatCamDemosaic_0_0 (AAUSAT:AAUSatCam:SatCamDemosaic:1.04) from (Rev. 3) to (Rev. 4)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr 28 11:41:49 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_SatCamDemosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of zsys_SatCamDemosaic_0_0 (AAUSAT:AAUSatCam:SatCamDemosaic:1.04) from (Rev. 2) to (Rev. 3)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr 28 10:54:30 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_SatCamDemosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of zsys_SatCamDemosaic_0_0 (AAUSAT:AAUSatCam:SatCamDemosaic:1.04) from (Rev. 1) to (Rev. 2)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr 28 10:31:12 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_SatCamDemosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of zsys_SatCamDemosaic_0_0 from AAUSAT:AAUSatCam:SatCamDemosaic:1.03 (Rev. 9) to AAUSAT:AAUSatCam:SatCamDemosaic:1.04 (Rev. 1)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Mon Apr 25 15:45:38 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_SatCamDemosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of zsys_SatCamDemosaic_0_0 (AAUSAT:AAUSatCam:SatCamDemosaic:1.03) from (Rev. 8) to (Rev. 9)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Mon Apr 25 15:18:47 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_SatCamDemosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of zsys_SatCamDemosaic_0_0 (AAUSAT:AAUSatCam:SatCamDemosaic:1.03) from (Rev. 7) to (Rev. 8)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Mon Apr 25 14:49:34 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_SatCamDemosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of zsys_SatCamDemosaic_0_0 (AAUSAT:AAUSatCam:SatCamDemosaic:1.03) from (Rev. 6) to (Rev. 7)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Mon Apr 25 14:45:35 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_SatCamDemosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of zsys_SatCamDemosaic_0_0 (AAUSAT:AAUSatCam:SatCamDemosaic:1.03) from (Rev. 5) to (Rev. 6)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Mon Apr 25 14:27:33 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_SatCamDemosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of zsys_SatCamDemosaic_0_0 (AAUSAT:AAUSatCam:SatCamDemosaic:1.03) from (Rev. 3) to (Rev. 5)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Mon Apr 25 12:30:33 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_SatCamDemosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of zsys_SatCamDemosaic_0_0 (AAUSAT:AAUSatCam:SatCamDemosaic:1.03) from (Rev. 2) to (Rev. 3)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Sun Apr 24 15:33:54 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_SatCamDemosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of zsys_SatCamDemosaic_0_0 (AAUSAT:AAUSatCam:SatCamDemosaic:1.03) from (Rev. 1) to (Rev. 2)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Sun Apr 24 14:46:31 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_SatCamDemosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of zsys_SatCamDemosaic_0_0 from AAUSAT:AAUSatCam:SatCamDemosaic:1.02 (Rev. 7) to AAUSAT:AAUSatCam:SatCamDemosaic:1.03 (Rev. 1)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Fri Apr 22 09:45:56 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_SatCamDemosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of zsys_SatCamDemosaic_0_0 (AAUSAT:AAUSatCam:SatCamDemosaic:1.02) from (Rev. 6) to (Rev. 7)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Fri Apr 22 09:43:27 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_SatCamDemosaic_0_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of zsys_SatCamDemosaic_0_0 (AAUSAT:AAUSatCam:SatCamDemosaic:1.02) from (Rev. 5) to (Rev. 6)
+
+After upgrade, an IP may have parameter differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality.
+
+2. Customization warnings
+-------------------------
+
+Parameter 'RAM_ADDR_BYTE_SIZE' is no longer present on the upgraded IP 'zsys_SatCamDemosaic_0_0', and cannot be set to '11'
+
+
+3. Debug Commands
+-----------------
+
+  The following debug information can be passed to Vivado as Tcl commands,
+in order to validate or debug the output of the upgrade flow.
+  You may consult any warnings from within this upgrade, and alter or remove
+the configuration parameter(s) which caused the warning; then execute the Tcl
+commands, and use the IP Customization GUI to verify the IP configuration.
+
+create_ip -vlnv AAUSAT:AAUSatCam:SatCamDemosaic:1.02 -user_name zsys_SatCamDemosaic_0_0
+set_property -dict "\
+  CONFIG.C_COLOR_POS {0} \
+  CONFIG.C_IN_TYPE {1} \
+  CONFIG.C_MODE {1} \
+  CONFIG.C_RAW_WIDTH {10} \
+  CONFIG.Component_Name {zsys_SatCamDemosaic_0_0} \
+  CONFIG.axis_aclk.ASSOCIATED_BUSIF {m_axis:s_axis} \
+  CONFIG.axis_aclk.ASSOCIATED_PORT {} \
+  CONFIG.axis_aclk.ASSOCIATED_RESET {axis_aresetn} \
+  CONFIG.axis_aclk.CLK_DOMAIN {zsys_processing_system7_0_0_FCLK_CLK0} \
+  CONFIG.axis_aclk.FREQ_HZ {159999985} \
+  CONFIG.axis_aclk.FREQ_TOLERANCE_HZ {0} \
+  CONFIG.axis_aclk.INSERT_VIP {0} \
+  CONFIG.axis_aclk.PHASE {0.0} \
+  CONFIG.axis_aresetn.INSERT_VIP {0} \
+  CONFIG.axis_aresetn.POLARITY {ACTIVE_LOW} \
+  CONFIG.m_axis.CLK_DOMAIN {zsys_processing_system7_0_0_FCLK_CLK0} \
+  CONFIG.m_axis.FREQ_HZ {159999985} \
+  CONFIG.m_axis.HAS_TKEEP {0} \
+  CONFIG.m_axis.HAS_TLAST {1} \
+  CONFIG.m_axis.HAS_TREADY {1} \
+  CONFIG.m_axis.HAS_TSTRB {0} \
+  CONFIG.m_axis.INSERT_VIP {0} \
+  CONFIG.m_axis.LAYERED_METADATA {undef} \
+  CONFIG.m_axis.PHASE {0.0} \
+  CONFIG.m_axis.TDATA_NUM_BYTES {4} \
+  CONFIG.m_axis.TDEST_WIDTH {0} \
+  CONFIG.m_axis.TID_WIDTH {0} \
+  CONFIG.m_axis.TUSER_WIDTH {1} \
+  CONFIG.s_axis.CLK_DOMAIN {zsys_processing_system7_0_0_FCLK_CLK0} \
+  CONFIG.s_axis.FREQ_HZ {159999985} \
+  CONFIG.s_axis.HAS_TKEEP {0} \
+  CONFIG.s_axis.HAS_TLAST {1} \
+  CONFIG.s_axis.HAS_TREADY {1} \
+  CONFIG.s_axis.HAS_TSTRB {0} \
+  CONFIG.s_axis.INSERT_VIP {0} \
+  CONFIG.s_axis.LAYERED_METADATA {undef} \
+  CONFIG.s_axis.PHASE {0.0} \
+  CONFIG.s_axis.TDATA_NUM_BYTES {2} \
+  CONFIG.s_axis.TDEST_WIDTH {0} \
+  CONFIG.s_axis.TID_WIDTH {0} \
+  CONFIG.s_axis.TUSER_WIDTH {1} " [get_ips zsys_SatCamDemosaic_0_0]
+
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Fri Apr 22 09:10:12 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_SatCamDemosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of zsys_SatCamDemosaic_0_0 (AAUSAT:AAUSatCam:SatCamDemosaic:1.02) from (Rev. 4) to (Rev. 5)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Fri Apr 22 08:57:51 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_SatCamDemosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of zsys_SatCamDemosaic_0_0 (AAUSAT:AAUSatCam:SatCamDemosaic:1.02) from (Rev. 3) to (Rev. 4)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Fri Apr 22 08:42:58 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_SatCamDemosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of zsys_SatCamDemosaic_0_0 (AAUSAT:AAUSatCam:SatCamDemosaic:1.02) from (Rev. 2) to (Rev. 3)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr 21 13:59:56 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_SatCamDemosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of zsys_SatCamDemosaic_0_0 (AAUSAT:AAUSatCam:SatCamDemosaic:1.02) from (Rev. 1) to (Rev. 2)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr 21 13:52:39 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_SatCamDemosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of zsys_SatCamDemosaic_0_0 from AAUSAT:AAUSatCam:SatCamDemosaic:1.01 (Rev. 2) to AAUSAT:AAUSatCam:SatCamDemosaic:1.02 (Rev. 1)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr 21 13:49:04 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_SatCamDemosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of zsys_SatCamDemosaic_0_0 (AAUSAT:AAUSatCam:SatCamDemosaic:1.01) from (Rev. 1) to (Rev. 2)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr 21 12:41:47 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_axis_raw_demosaic_v1_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of zsys_axis_raw_demosaic_v1_0_0 (xilinx.com:user:axis_raw_demosaic_v1_0:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr 21 11:32:08 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_axis_raw_demosaic_v1_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of zsys_axis_raw_demosaic_v1_0_0 (xilinx.com:user:axis_raw_demosaic_v1_0:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr 21 11:24:04 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_axis_raw_demosaic_v1_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of zsys_axis_raw_demosaic_v1_0_0 (xilinx.com:user:axis_raw_demosaic_v1_0:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr 21 11:18:14 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_axis_raw_demosaic_v1_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of zsys_axis_raw_demosaic_v1_0_0 (xilinx.com:user:axis_raw_demosaic_v1_0:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Thu Apr 21 10:11:47 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_axis_raw_demosaic_v1_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of zsys_axis_raw_demosaic_v1_0_0 (xilinx.com:user:axis_raw_demosaic_v1_0:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Wed Apr 20 09:43:55 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_axi_reg32_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of zsys_axi_reg32_0_0 (trenz.biz:user:axi_reg32:1.0 (Rev. 16)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Wed Apr 20 09:43:55 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_axi_i2s_adi_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of zsys_axi_i2s_adi_0_0 (digilentinc.com:user:axi_i2s_adi:1.2 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Tue Apr 19 13:19:45 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_axis_raw_demosaic_1_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of zsys_axis_raw_demosaic_1_0 (trenz.biz:user:axis_raw_demosaic:1.1a (Rev. 21)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Tue Apr 19 13:05:37 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_axis_raw_demosaic_1_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of zsys_axis_raw_demosaic_1_0 (trenz.biz:user:axis_raw_demosaic:1.1a (Rev. 21)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Tue Apr 19 13:02:22 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_axis_raw_demosaic_1_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of zsys_axis_raw_demosaic_1_0 (trenz.biz:user:axis_raw_demosaic:1.1a (Rev. 21)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Tue Apr 19 11:40:21 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_axis_raw_demosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of zsys_axis_raw_demosaic_0_0 (trenz.biz:user:axis_raw_demosaic:1.1a (Rev. 21)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Wed Apr 13 14:08:26 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_axis_raw_demosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of zsys_axis_raw_demosaic_0_0 from trenz.biz:user:axis_raw_demosaic:1.1 (Rev. 21) to trenz.biz:user:axis_raw_demosaic:1.1a (Rev. 21)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Wed Apr 13 13:31:39 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_axis_raw_demosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of zsys_axis_raw_demosaic_0_0 (trenz.biz:user:axis_raw_demosaic:1.1 (Rev. 21)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Wed Apr 13 12:48:12 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_axis_raw_demosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of zsys_axis_raw_demosaic_0_0 from trenz.biz:user:axis_raw_demosaic:1.0 (Rev. 21) to trenz.biz:user:axis_raw_demosaic:1.1 (Rev. 21)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Wed Apr 13 11:06:32 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_axis_raw_demosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of zsys_axis_raw_demosaic_0_0 (trenz.biz:user:axis_raw_demosaic:1.0 (Rev. 21)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Wed Apr 13 10:40:32 2022
+| Host         : DESKTOP-LNVH2M6 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg225-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zsys_axis_raw_demosaic_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of zsys_axis_raw_demosaic_0_0 (trenz.biz:user:axis_raw_demosaic:1.0 (Rev. 21)) to Vivado generation flows.
+
